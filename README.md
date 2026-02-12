@@ -1,67 +1,37 @@
 # 💫 About Me
-
 👋 Hi there! I'm **Nurullokh**  
-
 ⚡ Fun fact: 🚀 I’m a **Machine Learning Engineer** with **1 year of hands-on experience** in building and experimenting with ML models.  
 I’m passionate about **startups, innovation**, and turning ideas into **scalable products**.
-
 ---
-
 ## 🔭 Currently Working On
-
 - Machine Learning & AI-based projects  
 - Solving real-world problems using data  
 - Building and testing startup MVP ideas  
-
 ---
-
 ## 👯 Looking to Collaborate On
-
 - AI/ML Projects  
 - Startup MVP Development  
 - Open-source Contributions  
-
 ---
-
 ## 🤝 Looking for Help With
-
 - Scaling ML systems into production  
 - Advanced Deep Learning Architectures  
 - Startup Growth & Product Strategy  
-
 ---
-
 ## 🌱 Currently Learning
-
 - Advanced Machine Learning & Deep Learning  
 - System Design for AI Products  
 - Japanese Language & Global Communication  
-
 ---
-
 ## 🎓 Education
-
 - **Japan Digital University**  
 - **Okayama Rika Daigaku**  
 - **World Languages (Jahon Tillari)**  
 - **School 21 (Tashkent)**  
-
 ---
-
-## 💬 Ask Me About
-
-- Machine Learning  
-- Python & AI Tools  
-- Startup Ideas  
-- Studying in International Programs  
-
----
-
 ⚡ Fun fact:  
 I combine **tech, languages, and startup mindset** to build globally scalable ideas 🌍  
-
 ---
-
 # 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nurulloh404)  
